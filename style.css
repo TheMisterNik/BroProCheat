@@ -1,10 +1,12 @@
 body {
 	background-color: #1A1A1A; 
+	background-image: url(baner.jpeg);
+	background-size: 1905px 700px;
+	background-repeat: no-repeat;
 }
 
-.baner {
-	margin-left: -10px;
-	margin-top: -10px;
+.main1 {
+	margin-top:700px;
 }
 
 a {
@@ -16,7 +18,7 @@ a {
 	position: absolute;
 	font-size: 50px;
 	color: #E6E6E6;
-	margin-top: -550px;
+	margin-top: 200px;
 	margin-left:300px;
 }
 
